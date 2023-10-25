@@ -3,6 +3,7 @@
 
   ## Table of Contents
   - [Description](#project-description)
+  - [Installation](#installation)
   - [Usage](#usage)
   - [Contribution](#contribution)
   - [Testing](#testing)
@@ -21,6 +22,9 @@
   ### Demo 
   ![Demo](https://github.com/RugbyVeronica/readme-gen-tool/img/demo-real.gif)
 
+  ## Installation 
+  To install this project into your own, use `git clone` in your command-line.
+
   ## Usage 
   To use this project, go to the cloned files, then type `node index` in your command-line. Be sure you’re in the correct location in your command-line/terminal first!
 
@@ -31,5 +35,4 @@
   You can test this project with your own dummy data.
 
   ## Questions
-  Reach out to the repo owner, Veronica Lake at supergirlrugby@gmail.com.
-  
+  Reach out to the repo owner, Veronica Lake at supergirlrugby@gmail.com
